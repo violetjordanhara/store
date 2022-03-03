@@ -1,0 +1,52 @@
+body{
+    background-color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+}
+
+.start{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.title{
+    padding-top: -20px;
+    padding-left: 50px;;
+}
+
+.guide{
+    display:flex;
+    justify-content: right;
+    gap: 50px;
+    padding-right: 20px;
+}
+
+.container{
+    padding-left: 50px;
+    
+}
+
+img{
+    max-width: 80%;
+    max-height: 80%;
+    padding-top: 30px;
+}
+
+#shit{
+    text-decoration: none;
+    color:red;
+}
+
+.items{
+    display:flex;
+    flex-direction: row;
+}
+
+
+/*for the about html*/
+.about-start{
+    padding: 50px;
+}
